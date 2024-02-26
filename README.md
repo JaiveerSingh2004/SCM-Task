@@ -2,6 +2,7 @@
 
 <h1>This is a Heading. </h1>
 
+<h1>This is a Table. </h1>
 <table>
   <thead>
     <tr>
